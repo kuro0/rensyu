@@ -10,13 +10,13 @@ body {
 
 #header{
     width: 200px;
-    height: 200px;
+    height: 150px;
     background-color: #ff0;
 }
 
 #main{
     width: 150px;
-    height: 150px;
+    height: 250px;
     background-color: #00f;
 }
 
