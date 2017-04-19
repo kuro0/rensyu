@@ -15,13 +15,16 @@ body {
 }
 
 #main{
-    width: 150px;
+    float: left;
+    width: width: 50%;
     height: 250px;
     background-color: #00f;
 }
 
 #sub{
-    width: 200px;
+    clear: both;
+    float: left;
+    width: 50%;
     height: 300px;
     background-color: #ff0;
 }
